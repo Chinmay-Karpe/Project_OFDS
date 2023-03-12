@@ -9,6 +9,6 @@ USECASE DIAGRAMS :-
 
 ![UseCaseDiagram1](https://user-images.githubusercontent.com/52243796/224558581-18425ebc-d3d0-4a8f-a06e-788cc6146002.jpg)
 
-![UseCaseDiagram2](https://user-images.githubusercontent.com/52243796/224558655-da54339a-76c5-408c-b872-8161f79c2102.JPG)
+![UseCaseDiagram2](https://user-images.githubusercontent.com/52243796/224559664-832f4a2e-e4cc-45f4-b71f-153f22585d23.JPG)
 
 ![UseCaseDiagram3](https://user-images.githubusercontent.com/52243796/224558586-7a072f2d-ecd0-40b0-97f3-494b2afdb629.jpg)
